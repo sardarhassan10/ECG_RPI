@@ -14,7 +14,7 @@ const char * password = "WiFi Password";
 
 // MQTT server IP address and port
 
-const char * mqttServer = "192.168.100.137";
+const char * mqttServer = "IP Address";
 const int mqttPort = 1883;
 
 // Global variables
